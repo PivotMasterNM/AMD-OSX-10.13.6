@@ -1,5 +1,5 @@
 # Ryzen-OSX
-My Personal Hackintosh Setup using macOS 10.13.6 (should work on 10.14 and 10.15 too) and an AMD Ryzen CPU/Chipset
+My Personal Hackintosh Setup using macOS Big Sur 11.1 (should work on 10.13, 10.14 and 10.15 too) and an AMD Ryzen CPU/Chipset
 
 CPU: AMD Ryzen 7 2700X (3.6 Ghz Base - 4.15 Ghz Boost) - You can use any Ryzen Series 1000, 2000 or 3000 CPU without Graphics
 Motherboard: Gigabyte B450M DS3H (Rev. 1.0)
@@ -44,3 +44,4 @@ Kexts:
 - AppleALC.kext  -  for internal Audio handling
 - Lilu.kext  -  needed for other kexts
 - NullCPUPowerManagement  -  to make macOS accept the CPU
+todo
